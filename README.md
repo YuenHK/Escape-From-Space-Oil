@@ -6,7 +6,7 @@
 
 ## 宣傳影片
 
-[![ ](https://img.youtube.com/vi/78FIriiY2x4/maxresdefault.jpg)](https://www.youtube.com/watch?=78FIriiY2x4)
+[![ ](https://img.youtube.com/vi/78FIriiY2x4/maxresdefault.jpg)]([https://www.youtube.com/watch?=78FIriiY2x4](https://youtu.be/78FIriiY2x4))
 
 ---
 
